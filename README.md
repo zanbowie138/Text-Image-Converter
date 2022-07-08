@@ -6,6 +6,9 @@
 This python program will convert a text input into an encoded image, and can decode the image back into text.
 
 ## How to use:
+Must have python installed
+
+	pip install pillow 
 
 Open main.py with a text editor, and navigate to the variables section. Here you will find 3 variables that you can change.
 
